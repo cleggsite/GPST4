@@ -113,7 +113,7 @@ span {
 		   background-size: 100% 100%;
 		   margin-left: 190px;}
 
-#trainingImage { background-image: url(assets/baybella.png);
+#trainingImage { background-image: url(assets/BayBella.png);
            height: 300px;
 		   background-repeat: no-repeat;
 		   background-size: 100% 100%;
@@ -133,4 +133,5 @@ footer a {
 }
 #broo {
 	color: gray;
+
 }
